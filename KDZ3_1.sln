@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDZ3_1", "KDZ3_1\KDZ3_1.csproj", "{2963A8A3-2FE9-4078-86EE-067C12689CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripClasses", "TripClasses\TripClasses.csproj", "{5A0DA771-04C2-40B6-834F-4403E96B9CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2963A8A3-2FE9-4078-86EE-067C12689CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2963A8A3-2FE9-4078-86EE-067C12689CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2963A8A3-2FE9-4078-86EE-067C12689CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2963A8A3-2FE9-4078-86EE-067C12689CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0DA771-04C2-40B6-834F-4403E96B9CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0DA771-04C2-40B6-834F-4403E96B9CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0DA771-04C2-40B6-834F-4403E96B9CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0DA771-04C2-40B6-834F-4403E96B9CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {066F67D1-9C9E-4621-84BE-A4A36F1AA914}
+	EndGlobalSection
+EndGlobal

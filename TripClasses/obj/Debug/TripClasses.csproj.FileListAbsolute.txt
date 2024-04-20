@@ -1,0 +1,6 @@
+C:\Users\Asus\RiderProjects\KDZ3_1\TripClasses\bin\Debug\TripClasses.dll
+C:\Users\Asus\RiderProjects\KDZ3_1\TripClasses\bin\Debug\TripClasses.pdb
+C:\Users\Asus\RiderProjects\KDZ3_1\TripClasses\obj\Debug\TripClasses.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\KDZ3_1\TripClasses\obj\Debug\TripClasses.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\KDZ3_1\TripClasses\obj\Debug\TripClasses.dll
+C:\Users\Asus\RiderProjects\KDZ3_1\TripClasses\obj\Debug\TripClasses.pdb
